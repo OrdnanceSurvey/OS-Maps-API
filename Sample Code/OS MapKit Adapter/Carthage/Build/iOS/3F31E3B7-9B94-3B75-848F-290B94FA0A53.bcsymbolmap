@@ -1,0 +1,1548 @@
+BCSymbolMap Version: 1.0
++[OCMockObject initialize]
++[OCMockObject mockForClass:]
++[OCMockObject mockForProtocol:]
++[OCMockObject partialMockForObject:]
++[OCMockObject niceMockForClass:]
++[OCMockObject niceMockForProtocol:]
++[OCMockObject _makeNice:]
++[OCMockObject observerMock]
+-[OCMockObject init]
+-[OCMockObject dealloc]
+-[OCMockObject description]
+-[OCMockObject addStub:]
+-[OCMockObject addExpectation:]
+-[OCMockObject setExpectationOrderMatters:]
+-[OCMockObject stopMocking]
+-[OCMockObject stub]
+-[OCMockObject expect]
+-[OCMockObject reject]
+-[OCMockObject verify]
+-[OCMockObject verifyAtLocation:]
+-[OCMockObject verifyWithDelay:]
+-[OCMockObject verifyWithDelay:atLocation:]
+-[OCMockObject verifyInvocation:]
+-[OCMockObject verifyInvocation:atLocation:]
+-[OCMockObject forwardingTargetForSelector:]
+-[OCMockObject handleSelector:]
+-[OCMockObject forwardInvocation:]
+-[OCMockObject handleInvocation:]
+-[OCMockObject _nextExpectedInvocation]
+-[OCMockObject handleUnRecordedInvocation:]
+-[OCMockObject doesNotRecognizeSelector:]
+-[OCMockObject _stubDescriptions:]
+OBJC_CLASSLIST_REFERENCES_$_
+OBJC_METH_VAR_NAME_
+OBJC_SELECTOR_REFERENCES_
+OBJC_METH_VAR_NAME_1
+OBJC_SELECTOR_REFERENCES_2
+OBJC_METH_VAR_NAME_3
+OBJC_SELECTOR_REFERENCES_4
+OBJC_CLASSLIST_REFERENCES_$_5
+.str
+_unnamed_cfstring_
+OBJC_METH_VAR_NAME_6
+OBJC_SELECTOR_REFERENCES_7
+OBJC_CLASSLIST_REFERENCES_$_8
+OBJC_METH_VAR_NAME_9
+OBJC_SELECTOR_REFERENCES_10
+OBJC_METH_VAR_NAME_11
+OBJC_SELECTOR_REFERENCES_12
+OBJC_METH_VAR_NAME_13
+OBJC_SELECTOR_REFERENCES_14
+OBJC_CLASSLIST_REFERENCES_$_15
+OBJC_METH_VAR_NAME_16
+OBJC_SELECTOR_REFERENCES_17
+OBJC_CLASSLIST_REFERENCES_$_18
+OBJC_METH_VAR_NAME_19
+OBJC_SELECTOR_REFERENCES_20
+OBJC_METH_VAR_NAME_21
+OBJC_SELECTOR_REFERENCES_22
+OBJC_METH_VAR_NAME_23
+OBJC_SELECTOR_REFERENCES_24
+OBJC_METH_VAR_NAME_25
+OBJC_SELECTOR_REFERENCES_26
+OBJC_CLASSLIST_REFERENCES_$_27
+OBJC_METH_VAR_NAME_28
+OBJC_SELECTOR_REFERENCES_29
+OBJC_CLASSLIST_REFERENCES_$_30
+OBJC_METH_VAR_NAME_31
+OBJC_SELECTOR_REFERENCES_32
+OBJC_CLASSLIST_SUP_REFS_$_
+OBJC_METH_VAR_NAME_33
+OBJC_SELECTOR_REFERENCES_34
+.str35
+_unnamed_cfstring_36
+OBJC_METH_VAR_NAME_37
+OBJC_SELECTOR_REFERENCES_38
+OBJC_CLASSLIST_REFERENCES_$_39
+OBJC_METH_VAR_NAME_40
+OBJC_SELECTOR_REFERENCES_41
+OBJC_CLASSLIST_REFERENCES_$_42
+OBJC_METH_VAR_NAME_43
+OBJC_SELECTOR_REFERENCES_44
+OBJC_METH_VAR_NAME_45
+OBJC_SELECTOR_REFERENCES_46
+OBJC_METH_VAR_NAME_47
+OBJC_SELECTOR_REFERENCES_48
+OBJC_METH_VAR_NAME_49
+OBJC_SELECTOR_REFERENCES_50
+OBJC_METH_VAR_NAME_51
+OBJC_SELECTOR_REFERENCES_52
+OBJC_METH_VAR_NAME_53
+OBJC_SELECTOR_REFERENCES_54
+OBJC_METH_VAR_NAME_55
+OBJC_SELECTOR_REFERENCES_56
+OBJC_CLASSLIST_REFERENCES_$_57
+.str58
+_unnamed_cfstring_59
+OBJC_METH_VAR_NAME_60
+OBJC_SELECTOR_REFERENCES_61
+OBJC_METH_VAR_NAME_62
+OBJC_SELECTOR_REFERENCES_63
+OBJC_METH_VAR_NAME_64
+OBJC_SELECTOR_REFERENCES_65
+.str66
+_unnamed_cfstring_67
+OBJC_CLASSLIST_REFERENCES_$_68
+OBJC_METH_VAR_NAME_69
+OBJC_SELECTOR_REFERENCES_70
+OBJC_METH_VAR_NAME_71
+OBJC_SELECTOR_REFERENCES_72
+.str73
+_unnamed_cfstring_74
+OBJC_CLASSLIST_REFERENCES_$_75
+OBJC_METH_VAR_NAME_76
+OBJC_SELECTOR_REFERENCES_77
+OBJC_CLASSLIST_REFERENCES_$_78
+OBJC_METH_VAR_NAME_79
+OBJC_SELECTOR_REFERENCES_80
+OBJC_CLASSLIST_REFERENCES_$_81
+OBJC_METH_VAR_NAME_82
+OBJC_SELECTOR_REFERENCES_83
+OBJC_METH_VAR_NAME_84
+OBJC_SELECTOR_REFERENCES_85
+OBJC_METH_VAR_NAME_86
+OBJC_SELECTOR_REFERENCES_87
+OBJC_METH_VAR_NAME_88
+OBJC_SELECTOR_REFERENCES_89
+.str90
+_unnamed_cfstring_91
+OBJC_CLASSLIST_REFERENCES_$_92
+OBJC_METH_VAR_NAME_93
+OBJC_SELECTOR_REFERENCES_94
+OBJC_METH_VAR_NAME_95
+OBJC_SELECTOR_REFERENCES_96
+OBJC_METH_VAR_NAME_97
+OBJC_SELECTOR_REFERENCES_98
+OBJC_METH_VAR_NAME_99
+OBJC_SELECTOR_REFERENCES_100
+OBJC_METH_VAR_NAME_101
+OBJC_SELECTOR_REFERENCES_102
+OBJC_METH_VAR_NAME_103
+OBJC_SELECTOR_REFERENCES_104
+OBJC_METH_VAR_NAME_105
+OBJC_SELECTOR_REFERENCES_106
+OBJC_METH_VAR_NAME_107
+OBJC_SELECTOR_REFERENCES_108
+OBJC_METH_VAR_NAME_109
+OBJC_SELECTOR_REFERENCES_110
+.str111
+_unnamed_cfstring_112
+OBJC_METH_VAR_NAME_113
+OBJC_SELECTOR_REFERENCES_114
+OBJC_METH_VAR_NAME_115
+OBJC_SELECTOR_REFERENCES_116
+OBJC_METH_VAR_NAME_117
+OBJC_SELECTOR_REFERENCES_118
+OBJC_METH_VAR_NAME_119
+OBJC_SELECTOR_REFERENCES_120
+OBJC_METH_VAR_NAME_121
+OBJC_SELECTOR_REFERENCES_122
+.str123
+_unnamed_cfstring_124
+OBJC_METH_VAR_NAME_125
+OBJC_SELECTOR_REFERENCES_126
+OBJC_METH_VAR_NAME_127
+OBJC_SELECTOR_REFERENCES_128
+.str129
+_unnamed_cfstring_130
+OBJC_METH_VAR_NAME_131
+OBJC_SELECTOR_REFERENCES_132
+.str133
+_unnamed_cfstring_134
+.str135
+_unnamed_cfstring_136
+OBJC_CLASSLIST_REFERENCES_$_137
+OBJC_METH_VAR_NAME_138
+OBJC_SELECTOR_REFERENCES_139
+.str140
+_unnamed_cfstring_141
+.str142
+_unnamed_cfstring_143
+.str144
+_unnamed_cfstring_145
+.str146
+_unnamed_cfstring_147
+OBJC_METH_VAR_NAME_148
+OBJC_SELECTOR_REFERENCES_149
+OBJC_CLASS_NAME_
+OBJC_METH_VAR_NAME_150
+OBJC_METH_VAR_TYPE_
+OBJC_METH_VAR_TYPE_151
+OBJC_METH_VAR_TYPE_152
+OBJC_METH_VAR_NAME_153
+OBJC_METH_VAR_NAME_154
+OBJC_METH_VAR_NAME_155
+OBJC_METH_VAR_NAME_156
+OBJC_METH_VAR_TYPE_157
+l_OBJC_$_CLASS_METHODS_OCMockObject
+l_OBJC_METACLASS_RO_$_OCMockObject
+OBJC_METH_VAR_NAME_158
+OBJC_METH_VAR_TYPE_159
+OBJC_METH_VAR_NAME_160
+OBJC_METH_VAR_NAME_161
+OBJC_METH_VAR_TYPE_162
+OBJC_METH_VAR_NAME_163
+OBJC_METH_VAR_NAME_164
+OBJC_METH_VAR_NAME_165
+OBJC_METH_VAR_NAME_166
+OBJC_METH_VAR_NAME_167
+OBJC_METH_VAR_TYPE_168
+OBJC_METH_VAR_TYPE_169
+OBJC_METH_VAR_NAME_170
+OBJC_METH_VAR_TYPE_171
+OBJC_METH_VAR_NAME_172
+OBJC_METH_VAR_TYPE_173
+OBJC_METH_VAR_NAME_174
+OBJC_METH_VAR_TYPE_175
+OBJC_METH_VAR_NAME_176
+OBJC_METH_VAR_TYPE_177
+OBJC_METH_VAR_NAME_178
+OBJC_METH_VAR_TYPE_179
+OBJC_METH_VAR_TYPE_180
+l_OBJC_$_INSTANCE_METHODS_OCMockObject
+OBJC_METH_VAR_NAME_181
+OBJC_METH_VAR_TYPE_182
+OBJC_METH_VAR_NAME_183
+OBJC_METH_VAR_NAME_184
+OBJC_METH_VAR_TYPE_185
+OBJC_METH_VAR_NAME_186
+OBJC_METH_VAR_NAME_187
+OBJC_METH_VAR_NAME_188
+l_OBJC_$_INSTANCE_VARIABLES_OCMockObject
+l_OBJC_CLASS_RO_$_OCMockObject
+OBJC_LABEL_CLASS_$
+Apple LLVM version 7.0.2 (clang-700.1.81)
+/Users/dhardiman/Library/Developer/Xcode/DerivedData/ModuleCache/2FY8Q70TX76AX/ObjectiveC-2CD0WTQVXITO7.pcm
+ObjectiveC
+/Users/dhardiman/Library/Developer/Xcode/DerivedData/ModuleCache/2FY8Q70TX76AX/Foundation-A3SOD99KJ0S9.pcm
+Foundation
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/System/Library/Frameworks/Foundation.framework
+-[OCMockObject _stubDescriptions:]
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/OCMockObject.m
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source
+-[OCMockObject doesNotRecognizeSelector:]
+-[OCMockObject handleUnRecordedInvocation:]
+-[OCMockObject _nextExpectedInvocation]
+-[OCMockObject handleInvocation:]
+-[OCMockObject forwardInvocation:]
+-[OCMockObject handleSelector:]
+-[OCMockObject forwardingTargetForSelector:]
+-[OCMockObject verifyInvocation:atLocation:]
+-[OCMockObject verifyInvocation:]
+-[OCMockObject verifyWithDelay:atLocation:]
+-[OCMockObject verifyWithDelay:]
+-[OCMockObject verifyAtLocation:]
+-[OCMockObject verify]
+-[OCMockObject reject]
+-[OCMockObject expect]
+-[OCMockObject stub]
+-[OCMockObject stopMocking]
+-[OCMockObject setExpectationOrderMatters:]
+-[OCMockObject addExpectation:]
+-[OCMockObject addStub:]
+-[OCMockObject description]
+-[OCMockObject dealloc]
+-[OCMockObject init]
++[OCMockObject observerMock]
++[OCMockObject _makeNice:]
++[OCMockObject niceMockForProtocol:]
++[OCMockObject niceMockForClass:]
++[OCMockObject partialMockForObject:]
++[OCMockObject mockForProtocol:]
++[OCMockObject mockForClass:]
++[OCMockObject initialize]
+-[OCClassMockObject initWithClass:]
+-[OCClassMockObject dealloc]
+-[OCClassMockObject description]
+-[OCClassMockObject mockedClass]
+-[OCClassMockObject stopMocking]
+-[OCClassMockObject restoreMetaClass]
+-[OCClassMockObject addStub:]
+-[OCClassMockObject prepareClassForClassMethodMocking]
+__54-[OCClassMockObject prepareClassForClassMethodMocking]_block_invoke
+__copy_helper_block_
+__destroy_helper_block_
+-[OCClassMockObject setupForwarderForClassMethodSelector:]
+-[OCClassMockObject forwardInvocationForClassObject:]
+-[OCClassMockObject initializeForClassObject]
+-[OCClassMockObject methodSignatureForSelector:]
+-[OCClassMockObject mockObjectClass]
+-[OCClassMockObject class]
+-[OCClassMockObject respondsToSelector:]
+-[OCClassMockObject isKindOfClass:]
+-[OCClassMockObject conformsToProtocol:]
+-[OCClassMockObject(NSIsKindsImplementation) isNSValue__]
+-[OCClassMockObject(NSIsKindsImplementation) isNSTimeZone__]
+-[OCClassMockObject(NSIsKindsImplementation) isNSSet__]
+-[OCClassMockObject(NSIsKindsImplementation) isNSOrderedSet__]
+-[OCClassMockObject(NSIsKindsImplementation) isNSNumber__]
+-[OCClassMockObject(NSIsKindsImplementation) isNSDate__]
+-[OCClassMockObject(NSIsKindsImplementation) isNSString__]
+-[OCClassMockObject(NSIsKindsImplementation) isNSDictionary__]
+-[OCClassMockObject(NSIsKindsImplementation) isNSData__]
+-[OCClassMockObject(NSIsKindsImplementation) isNSArray__]
+OBJC_METH_VAR_NAME_5
+OBJC_SELECTOR_REFERENCES_6
+OBJC_METH_VAR_NAME_7
+OBJC_SELECTOR_REFERENCES_8
+OBJC_METH_VAR_NAME_15
+OBJC_SELECTOR_REFERENCES_16
+OBJC_METH_VAR_NAME_17
+OBJC_SELECTOR_REFERENCES_18
+OBJC_METH_VAR_NAME_27
+OBJC_SELECTOR_REFERENCES_28
+OBJC_METH_VAR_NAME_29
+OBJC_SELECTOR_REFERENCES_30
+.str37
+_unnamed_cfstring_38
+.str39
+_unnamed_cfstring_40
+.str41
+_unnamed_cfstring_42
+.str43
+_unnamed_cfstring_44
+.str45
+_unnamed_cfstring_46
+.str47
+_unnamed_cfstring_48
+OBJC_CLASSLIST_REFERENCES_$_49
+OBJC_METH_VAR_NAME_50
+OBJC_SELECTOR_REFERENCES_51
+OBJC_CLASSLIST_REFERENCES_$_52
+.str53
+_unnamed_cfstring_54
+.str57
+_unnamed_cfstring_58
+.str59
+_unnamed_cfstring_60
+OBJC_METH_VAR_NAME_61
+OBJC_SELECTOR_REFERENCES_62
+OBJC_METH_VAR_NAME_63
+OBJC_SELECTOR_REFERENCES_64
+.str65
+__block_descriptor_tmp
+OBJC_METH_VAR_NAME_66
+OBJC_SELECTOR_REFERENCES_67
+OBJC_METH_VAR_NAME_68
+OBJC_SELECTOR_REFERENCES_69
+OBJC_CLASSLIST_REFERENCES_$_70
+.str71
+_unnamed_cfstring_72
+OBJC_METH_VAR_NAME_73
+OBJC_SELECTOR_REFERENCES_74
+OBJC_METH_VAR_NAME_75
+OBJC_SELECTOR_REFERENCES_76
+OBJC_METH_VAR_NAME_77
+OBJC_SELECTOR_REFERENCES_78
+OBJC_METH_VAR_NAME_81
+OBJC_SELECTOR_REFERENCES_82
+OBJC_CLASSLIST_REFERENCES_$_83
+l_OBJC_METACLASS_RO_$_OCClassMockObject
+OBJC_METH_VAR_TYPE_89
+OBJC_METH_VAR_NAME_90
+OBJC_METH_VAR_TYPE_91
+OBJC_METH_VAR_NAME_92
+OBJC_METH_VAR_TYPE_93
+OBJC_METH_VAR_TYPE_94
+OBJC_METH_VAR_TYPE_95
+OBJC_METH_VAR_NAME_96
+OBJC_METH_VAR_TYPE_97
+OBJC_METH_VAR_NAME_98
+OBJC_METH_VAR_TYPE_99
+OBJC_METH_VAR_NAME_100
+OBJC_METH_VAR_TYPE_101
+OBJC_METH_VAR_NAME_102
+OBJC_METH_VAR_TYPE_103
+l_OBJC_$_INSTANCE_METHODS_OCClassMockObject
+OBJC_METH_VAR_TYPE_104
+l_OBJC_$_INSTANCE_VARIABLES_OCClassMockObject
+l_OBJC_CLASS_RO_$_OCClassMockObject
+OBJC_CLASSLIST_REFERENCES_$_106
+OBJC_CLASSLIST_REFERENCES_$_107
+OBJC_CLASSLIST_REFERENCES_$_108
+OBJC_CLASSLIST_REFERENCES_$_109
+OBJC_CLASSLIST_REFERENCES_$_110
+OBJC_CLASSLIST_REFERENCES_$_111
+OBJC_CLASSLIST_REFERENCES_$_112
+OBJC_CLASSLIST_REFERENCES_$_113
+OBJC_CLASS_NAME_114
+OBJC_METH_VAR_TYPE_116
+OBJC_METH_VAR_NAME_118
+OBJC_METH_VAR_NAME_120
+OBJC_METH_VAR_NAME_122
+OBJC_METH_VAR_NAME_123
+OBJC_METH_VAR_NAME_124
+l_OBJC_$_CATEGORY_INSTANCE_METHODS_OCClassMockObject_$_NSIsKindsImplementation
+l_OBJC_$_CATEGORY_OCClassMockObject_$_NSIsKindsImplementation
+OBJC_LABEL_CATEGORY_$
+-[OCClassMockObject(NSIsKindsImplementation) isNSArray__]
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/OCClassMockObject.m
+-[OCClassMockObject(NSIsKindsImplementation) isNSData__]
+-[OCClassMockObject(NSIsKindsImplementation) isNSDictionary__]
+-[OCClassMockObject(NSIsKindsImplementation) isNSString__]
+-[OCClassMockObject(NSIsKindsImplementation) isNSDate__]
+-[OCClassMockObject(NSIsKindsImplementation) isNSNumber__]
+-[OCClassMockObject(NSIsKindsImplementation) isNSOrderedSet__]
+-[OCClassMockObject(NSIsKindsImplementation) isNSSet__]
+-[OCClassMockObject(NSIsKindsImplementation) isNSTimeZone__]
+-[OCClassMockObject(NSIsKindsImplementation) isNSValue__]
+-[OCClassMockObject conformsToProtocol:]
+-[OCClassMockObject isKindOfClass:]
+-[OCClassMockObject respondsToSelector:]
+-[OCClassMockObject class]
+-[OCClassMockObject mockObjectClass]
+-[OCClassMockObject methodSignatureForSelector:]
+-[OCClassMockObject initializeForClassObject]
+-[OCClassMockObject forwardInvocationForClassObject:]
+-[OCClassMockObject setupForwarderForClassMethodSelector:]
+-[OCClassMockObject prepareClassForClassMethodMocking]
+-[OCClassMockObject addStub:]
+-[OCClassMockObject restoreMetaClass]
+-[OCClassMockObject stopMocking]
+-[OCClassMockObject mockedClass]
+-[OCClassMockObject description]
+-[OCClassMockObject dealloc]
+-[OCClassMockObject initWithClass:]
+-[OCPartialMockObject initWithObject:]
+-[OCPartialMockObject dealloc]
+-[OCPartialMockObject description]
+-[OCPartialMockObject realObject]
+-[OCPartialMockObject assertClassIsSupported:]
+-[OCPartialMockObject stopMocking]
+-[OCPartialMockObject addStub:]
+-[OCPartialMockObject handleUnRecordedInvocation:]
+-[OCPartialMockObject prepareObjectForInstanceMethodMocking]
+__60-[OCPartialMockObject prepareObjectForInstanceMethodMocking]_block_invoke
+-[OCPartialMockObject setupForwarderForSelector:]
+-[OCPartialMockObject classForRealObject]
+-[OCPartialMockObject forwardingTargetForSelectorForRealObject:]
+-[OCPartialMockObject ocmock_replaced_forwardingTargetForSelector:]
+-[OCPartialMockObject forwardInvocationForRealObject:]
+.str17
+_unnamed_cfstring_18
+.str21
+_unnamed_cfstring_22
+.str23
+_unnamed_cfstring_24
+.str25
+_unnamed_cfstring_26
+.str27
+_unnamed_cfstring_28
+OBJC_CLASSLIST_REFERENCES_$_29
+OBJC_METH_VAR_NAME_30
+OBJC_SELECTOR_REFERENCES_31
+OBJC_METH_VAR_NAME_32
+OBJC_SELECTOR_REFERENCES_33
+OBJC_METH_VAR_NAME_34
+OBJC_SELECTOR_REFERENCES_35
+OBJC_METH_VAR_NAME_36
+OBJC_SELECTOR_REFERENCES_37
+OBJC_METH_VAR_NAME_38
+OBJC_SELECTOR_REFERENCES_39
+OBJC_METH_VAR_NAME_42
+OBJC_SELECTOR_REFERENCES_43
+OBJC_METH_VAR_NAME_44
+OBJC_SELECTOR_REFERENCES_45
+OBJC_METH_VAR_NAME_46
+OBJC_SELECTOR_REFERENCES_47
+OBJC_METH_VAR_NAME_48
+OBJC_SELECTOR_REFERENCES_49
+OBJC_METH_VAR_NAME_52
+OBJC_SELECTOR_REFERENCES_53
+OBJC_METH_VAR_NAME_54
+OBJC_SELECTOR_REFERENCES_55
+OBJC_METH_VAR_NAME_56
+OBJC_SELECTOR_REFERENCES_57
+OBJC_METH_VAR_NAME_58
+OBJC_SELECTOR_REFERENCES_59
+.str64
+_unnamed_cfstring_65
+.str68
+_unnamed_cfstring_69
+.str70
+_unnamed_cfstring_71
+.str72
+_unnamed_cfstring_73
+.str74
+_unnamed_cfstring_75
+.str76
+_unnamed_cfstring_77
+OBJC_CLASSLIST_REFERENCES_$_82
+.str83
+_unnamed_cfstring_84
+.str85
+_unnamed_cfstring_86
+.str87
+_unnamed_cfstring_88
+OBJC_METH_VAR_NAME_89
+OBJC_SELECTOR_REFERENCES_90
+OBJC_METH_VAR_NAME_91
+OBJC_SELECTOR_REFERENCES_92
+.str93
+OBJC_METH_VAR_NAME_94
+OBJC_SELECTOR_REFERENCES_95
+OBJC_SELECTOR_REFERENCES_97
+OBJC_SELECTOR_REFERENCES_99
+OBJC_SELECTOR_REFERENCES_101
+OBJC_SELECTOR_REFERENCES_103
+.str104
+_unnamed_cfstring_105
+OBJC_METH_VAR_NAME_106
+OBJC_SELECTOR_REFERENCES_107
+OBJC_METH_VAR_NAME_108
+OBJC_SELECTOR_REFERENCES_109
+OBJC_METH_VAR_NAME_110
+OBJC_SELECTOR_REFERENCES_111
+OBJC_METH_VAR_NAME_112
+OBJC_SELECTOR_REFERENCES_113
+OBJC_METH_VAR_NAME_114
+OBJC_SELECTOR_REFERENCES_115
+l_OBJC_METACLASS_RO_$_OCPartialMockObject
+OBJC_METH_VAR_NAME_116
+OBJC_METH_VAR_TYPE_117
+OBJC_METH_VAR_TYPE_119
+OBJC_METH_VAR_TYPE_120
+OBJC_METH_VAR_TYPE_121
+OBJC_METH_VAR_TYPE_123
+OBJC_METH_VAR_TYPE_124
+OBJC_METH_VAR_TYPE_125
+l_OBJC_$_INSTANCE_METHODS_OCPartialMockObject
+OBJC_METH_VAR_TYPE_126
+l_OBJC_$_INSTANCE_VARIABLES_OCPartialMockObject
+l_OBJC_CLASS_RO_$_OCPartialMockObject
+-[OCPartialMockObject forwardInvocationForRealObject:]
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/OCPartialMockObject.m
+-[OCPartialMockObject ocmock_replaced_forwardingTargetForSelector:]
+-[OCPartialMockObject forwardingTargetForSelectorForRealObject:]
+-[OCPartialMockObject classForRealObject]
+-[OCPartialMockObject setupForwarderForSelector:]
+-[OCPartialMockObject prepareObjectForInstanceMethodMocking]
+-[OCPartialMockObject handleUnRecordedInvocation:]
+-[OCPartialMockObject addStub:]
+-[OCPartialMockObject stopMocking]
+-[OCPartialMockObject assertClassIsSupported:]
+-[OCPartialMockObject realObject]
+-[OCPartialMockObject description]
+-[OCPartialMockObject dealloc]
+-[OCPartialMockObject initWithObject:]
+-[OCProtocolMockObject initWithProtocol:]
+-[OCProtocolMockObject description]
+-[OCProtocolMockObject methodSignatureForSelector:]
+-[OCProtocolMockObject conformsToProtocol:]
+-[OCProtocolMockObject respondsToSelector:]
+OBJC_CLASSLIST_REFERENCES_$_3
+OBJC_METH_VAR_NAME_4
+OBJC_SELECTOR_REFERENCES_5
+l_OBJC_METACLASS_RO_$_OCProtocolMockObject
+OBJC_METH_VAR_NAME_8
+OBJC_METH_VAR_TYPE_10
+OBJC_METH_VAR_TYPE_11
+OBJC_METH_VAR_NAME_12
+OBJC_METH_VAR_TYPE_13
+OBJC_METH_VAR_NAME_14
+OBJC_METH_VAR_TYPE_15
+l_OBJC_$_INSTANCE_METHODS_OCProtocolMockObject
+OBJC_METH_VAR_TYPE_17
+l_OBJC_$_INSTANCE_VARIABLES_OCProtocolMockObject
+l_OBJC_CLASS_RO_$_OCProtocolMockObject
+-[OCProtocolMockObject respondsToSelector:]
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/OCProtocolMockObject.m
+-[OCProtocolMockObject conformsToProtocol:]
+-[OCProtocolMockObject methodSignatureForSelector:]
+-[OCProtocolMockObject description]
+-[OCProtocolMockObject initWithProtocol:]
+-[OCMRecorder init]
+-[OCMRecorder initWithMockObject:]
+-[OCMRecorder setMockObject:]
+-[OCMRecorder dealloc]
+-[OCMRecorder description]
+-[OCMRecorder invocationMatcher]
+-[OCMRecorder classMethod]
+-[OCMRecorder ignoringNonObjectArgs]
+-[OCMRecorder methodSignatureForSelector:]
+-[OCMRecorder forwardInvocation:]
+-[OCMRecorder doesNotRecognizeSelector:]
+OBJC_CLASSLIST_REFERENCES_$_31
+l_OBJC_METACLASS_RO_$_OCMRecorder
+OBJC_METH_VAR_TYPE_35
+OBJC_METH_VAR_TYPE_36
+OBJC_METH_VAR_TYPE_37
+OBJC_METH_VAR_NAME_39
+OBJC_METH_VAR_TYPE_40
+OBJC_METH_VAR_NAME_41
+OBJC_METH_VAR_TYPE_43
+l_OBJC_$_INSTANCE_METHODS_OCMRecorder
+OBJC_METH_VAR_TYPE_45
+OBJC_METH_VAR_TYPE_46
+l_OBJC_$_INSTANCE_VARIABLES_OCMRecorder
+l_OBJC_CLASS_RO_$_OCMRecorder
+-[OCMRecorder doesNotRecognizeSelector:]
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/OCMRecorder.m
+-[OCMRecorder forwardInvocation:]
+-[OCMRecorder methodSignatureForSelector:]
+-[OCMRecorder ignoringNonObjectArgs]
+-[OCMRecorder classMethod]
+-[OCMRecorder invocationMatcher]
+-[OCMRecorder description]
+-[OCMRecorder dealloc]
+-[OCMRecorder setMockObject:]
+-[OCMRecorder initWithMockObject:]
+-[OCMRecorder init]
+-[OCMStubRecorder init]
+-[OCMStubRecorder stub]
+-[OCMStubRecorder andReturn:]
+-[OCMStubRecorder andReturnValue:]
+-[OCMStubRecorder andThrow:]
+-[OCMStubRecorder andPost:]
+-[OCMStubRecorder andCall:onObject:]
+-[OCMStubRecorder andDo:]
+-[OCMStubRecorder andForwardToRealObject]
+-[OCMStubRecorder forwardInvocation:]
+-[OCMStubRecorder(Properties) _andReturn]
+__41-[OCMStubRecorder(Properties) _andReturn]_block_invoke
+-[OCMStubRecorder(Properties) _andThrow]
+__40-[OCMStubRecorder(Properties) _andThrow]_block_invoke
+__copy_helper_block_48
+__destroy_helper_block_49
+-[OCMStubRecorder(Properties) _andPost]
+__39-[OCMStubRecorder(Properties) _andPost]_block_invoke
+__copy_helper_block_53
+__destroy_helper_block_54
+-[OCMStubRecorder(Properties) _andCall]
+__39-[OCMStubRecorder(Properties) _andCall]_block_invoke
+__copy_helper_block_58
+__destroy_helper_block_59
+-[OCMStubRecorder(Properties) _andDo]
+__37-[OCMStubRecorder(Properties) _andDo]_block_invoke
+__copy_helper_block_63
+__destroy_helper_block_64
+-[OCMStubRecorder(Properties) _andForwardToRealObject]
+__54-[OCMStubRecorder(Properties) _andForwardToRealObject]_block_invoke
+__copy_helper_block_68
+__destroy_helper_block_69
+OBJC_SELECTOR_REFERENCES_9
+OBJC_METH_VAR_NAME_10
+OBJC_SELECTOR_REFERENCES_11
+OBJC_CLASSLIST_REFERENCES_$_12
+OBJC_CLASSLIST_REFERENCES_$_13
+OBJC_CLASSLIST_REFERENCES_$_14
+OBJC_CLASSLIST_REFERENCES_$_17
+OBJC_METH_VAR_NAME_18
+OBJC_SELECTOR_REFERENCES_19
+OBJC_CLASSLIST_REFERENCES_$_20
+OBJC_CLASSLIST_REFERENCES_$_23
+OBJC_METH_VAR_NAME_24
+OBJC_SELECTOR_REFERENCES_25
+OBJC_METH_VAR_NAME_26
+OBJC_SELECTOR_REFERENCES_27
+l_OBJC_METACLASS_RO_$_OCMStubRecorder
+OBJC_METH_VAR_TYPE_29
+OBJC_METH_VAR_TYPE_34
+OBJC_METH_VAR_NAME_35
+OBJC_METH_VAR_TYPE_38
+l_OBJC_$_INSTANCE_METHODS_OCMStubRecorder
+l_OBJC_CLASS_RO_$_OCMStubRecorder
+OBJC_SELECTOR_REFERENCES_40
+OBJC_SELECTOR_REFERENCES_42
+.str50
+__block_descriptor_tmp51
+.str55
+__block_descriptor_tmp56
+.str60
+__block_descriptor_tmp61
+__block_descriptor_tmp66
+__block_descriptor_tmp71
+OBJC_CLASS_NAME_72
+OBJC_METH_VAR_TYPE_74
+OBJC_METH_VAR_NAME_78
+l_OBJC_$_CATEGORY_INSTANCE_METHODS_OCMStubRecorder_$_Properties
+OBJC_PROP_NAME_ATTR_
+OBJC_PROP_NAME_ATTR_80
+OBJC_PROP_NAME_ATTR_81
+OBJC_PROP_NAME_ATTR_82
+OBJC_PROP_NAME_ATTR_83
+OBJC_PROP_NAME_ATTR_84
+OBJC_PROP_NAME_ATTR_85
+l_OBJC_$_PROP_LIST_OCMStubRecorder_$_Properties
+l_OBJC_$_CATEGORY_OCMStubRecorder_$_Properties
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/OCMStubRecorder.m
+-[OCMStubRecorder(Properties) _andForwardToRealObject]
+-[OCMStubRecorder(Properties) _andDo]
+-[OCMStubRecorder(Properties) _andCall]
+-[OCMStubRecorder(Properties) _andPost]
+-[OCMStubRecorder(Properties) _andThrow]
+-[OCMStubRecorder(Properties) _andReturn]
+-[OCMStubRecorder forwardInvocation:]
+-[OCMStubRecorder andForwardToRealObject]
+-[OCMStubRecorder andDo:]
+-[OCMStubRecorder andCall:onObject:]
+-[OCMStubRecorder andPost:]
+-[OCMStubRecorder andThrow:]
+-[OCMStubRecorder andReturnValue:]
+-[OCMStubRecorder andReturn:]
+-[OCMStubRecorder stub]
+-[OCMStubRecorder init]
+-[OCMExpectationRecorder init]
+-[OCMExpectationRecorder expectation]
+-[OCMExpectationRecorder never]
+-[OCMExpectationRecorder forwardInvocation:]
+l_OBJC_METACLASS_RO_$_OCMExpectationRecorder
+OBJC_METH_VAR_TYPE_14
+l_OBJC_$_INSTANCE_METHODS_OCMExpectationRecorder
+l_OBJC_CLASS_RO_$_OCMExpectationRecorder
+-[OCMExpectationRecorder forwardInvocation:]
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/OCMExpectationRecorder.m
+-[OCMExpectationRecorder never]
+-[OCMExpectationRecorder expectation]
+-[OCMExpectationRecorder init]
+-[OCMVerifier init]
+-[OCMVerifier forwardInvocation:]
+-[OCMVerifier dealloc]
+-[OCMVerifier location]
+-[OCMVerifier setLocation:]
+OBJC_IVAR_$_OCMVerifier._location
+l_OBJC_METACLASS_RO_$_OCMVerifier
+l_OBJC_$_INSTANCE_METHODS_OCMVerifier
+l_OBJC_$_INSTANCE_VARIABLES_OCMVerifier
+OBJC_PROP_NAME_ATTR_18
+l_OBJC_$_PROP_LIST_OCMVerifier
+l_OBJC_CLASS_RO_$_OCMVerifier
+-[OCMVerifier setLocation:]
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/OCMVerifier.h
+-[OCMVerifier location]
+-[OCMVerifier dealloc]
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/OCMVerifier.m
+-[OCMVerifier forwardInvocation:]
+-[OCMVerifier init]
+-[OCMInvocationMatcher dealloc]
+-[OCMInvocationMatcher setInvocation:]
+-[OCMInvocationMatcher setRecordedAsClassMethod:]
+-[OCMInvocationMatcher recordedAsClassMethod]
+-[OCMInvocationMatcher setIgnoreNonObjectArgs:]
+-[OCMInvocationMatcher description]
+-[OCMInvocationMatcher recordedInvocation]
+-[OCMInvocationMatcher matchesSelector:]
+-[OCMInvocationMatcher matchesInvocation:]
+OBJC_CLASSLIST_REFERENCES_$_33
+OBJC_CLASSLIST_REFERENCES_$_36
+.str42
+OBJC_CLASSLIST_REFERENCES_$_47
+l_OBJC_METACLASS_RO_$_OCMInvocationMatcher
+OBJC_METH_VAR_TYPE_51
+OBJC_METH_VAR_TYPE_53
+OBJC_METH_VAR_TYPE_55
+OBJC_METH_VAR_NAME_57
+OBJC_METH_VAR_TYPE_58
+OBJC_METH_VAR_NAME_59
+OBJC_METH_VAR_TYPE_60
+OBJC_METH_VAR_TYPE_62
+l_OBJC_$_INSTANCE_METHODS_OCMInvocationMatcher
+OBJC_METH_VAR_TYPE_63
+OBJC_METH_VAR_TYPE_64
+OBJC_METH_VAR_NAME_65
+l_OBJC_$_INSTANCE_VARIABLES_OCMInvocationMatcher
+l_OBJC_CLASS_RO_$_OCMInvocationMatcher
+-[OCMInvocationMatcher matchesInvocation:]
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/OCMInvocationMatcher.m
+-[OCMInvocationMatcher matchesSelector:]
+-[OCMInvocationMatcher recordedInvocation]
+-[OCMInvocationMatcher description]
+-[OCMInvocationMatcher setIgnoreNonObjectArgs:]
+-[OCMInvocationMatcher recordedAsClassMethod]
+-[OCMInvocationMatcher setRecordedAsClassMethod:]
+-[OCMInvocationMatcher setInvocation:]
+-[OCMInvocationMatcher dealloc]
+-[OCMInvocationStub init]
+-[OCMInvocationStub dealloc]
+-[OCMInvocationStub addInvocationAction:]
+-[OCMInvocationStub invocationActions]
+-[OCMInvocationStub handleInvocation:]
+l_OBJC_METACLASS_RO_$_OCMInvocationStub
+l_OBJC_$_INSTANCE_METHODS_OCMInvocationStub
+l_OBJC_$_INSTANCE_VARIABLES_OCMInvocationStub
+l_OBJC_CLASS_RO_$_OCMInvocationStub
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/usr/include/objc
+-[OCMInvocationStub handleInvocation:]
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/OCMInvocationStub.m
+-[OCMInvocationStub invocationActions]
+-[OCMInvocationStub addInvocationAction:]
+-[OCMInvocationStub dealloc]
+-[OCMInvocationStub init]
+-[OCMInvocationExpectation setMatchAndReject:]
+-[OCMInvocationExpectation isMatchAndReject]
+-[OCMInvocationExpectation isSatisfied]
+-[OCMInvocationExpectation handleInvocation:]
+l_OBJC_METACLASS_RO_$_OCMInvocationExpectation
+OBJC_METH_VAR_TYPE_9
+l_OBJC_$_INSTANCE_METHODS_OCMInvocationExpectation
+l_OBJC_$_INSTANCE_VARIABLES_OCMInvocationExpectation
+l_OBJC_CLASS_RO_$_OCMInvocationExpectation
+-[OCMInvocationExpectation handleInvocation:]
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/OCMInvocationExpectation.m
+-[OCMInvocationExpectation isSatisfied]
+-[OCMInvocationExpectation isMatchAndReject]
+-[OCMInvocationExpectation setMatchAndReject:]
+-[OCMRealObjectForwarder handleInvocation:]
+l_OBJC_METACLASS_RO_$_OCMRealObjectForwarder
+l_OBJC_$_INSTANCE_METHODS_OCMRealObjectForwarder
+l_OBJC_CLASS_RO_$_OCMRealObjectForwarder
+-[OCMRealObjectForwarder handleInvocation:]
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/OCMRealObjectForwarder.m
+-[OCMBlockCaller initWithCallBlock:]
+-[OCMBlockCaller dealloc]
+-[OCMBlockCaller handleInvocation:]
+l_OBJC_METACLASS_RO_$_OCMBlockCaller
+OBJC_METH_VAR_TYPE_8
+l_OBJC_$_INSTANCE_METHODS_OCMBlockCaller
+OBJC_METH_VAR_TYPE_12
+l_OBJC_$_INSTANCE_VARIABLES_OCMBlockCaller
+l_OBJC_CLASS_RO_$_OCMBlockCaller
+-[OCMBlockCaller handleInvocation:]
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/OCMBlockCaller.m
+-[OCMBlockCaller dealloc]
+-[OCMBlockCaller initWithCallBlock:]
+-[OCMBoxedReturnValueProvider handleInvocation:]
+-[OCMBoxedReturnValueProvider isMethodReturnType:compatibleWithValueType:]
+.str18
+l_OBJC_METACLASS_RO_$_OCMBoxedReturnValueProvider
+OBJC_METH_VAR_TYPE_20
+l_OBJC_$_INSTANCE_METHODS_OCMBoxedReturnValueProvider
+l_OBJC_CLASS_RO_$_OCMBoxedReturnValueProvider
+-[OCMBoxedReturnValueProvider isMethodReturnType:compatibleWithValueType:]
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/OCMBoxedReturnValueProvider.m
+-[OCMBoxedReturnValueProvider handleInvocation:]
+-[OCMExceptionReturnValueProvider handleInvocation:]
+.str1
+_unnamed_cfstring_2
+.str3
+_unnamed_cfstring_4
+l_OBJC_METACLASS_RO_$_OCMExceptionReturnValueProvider
+l_OBJC_$_INSTANCE_METHODS_OCMExceptionReturnValueProvider
+l_OBJC_CLASS_RO_$_OCMExceptionReturnValueProvider
+-[OCMExceptionReturnValueProvider handleInvocation:]
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/OCMExceptionReturnValueProvider.m
+-[OCMIndirectReturnValueProvider initWithProvider:andSelector:]
+-[OCMIndirectReturnValueProvider dealloc]
+-[OCMIndirectReturnValueProvider handleInvocation:]
+l_OBJC_METACLASS_RO_$_OCMIndirectReturnValueProvider
+OBJC_METH_VAR_TYPE_18
+l_OBJC_$_INSTANCE_METHODS_OCMIndirectReturnValueProvider
+OBJC_METH_VAR_TYPE_22
+OBJC_METH_VAR_TYPE_23
+l_OBJC_$_INSTANCE_VARIABLES_OCMIndirectReturnValueProvider
+l_OBJC_CLASS_RO_$_OCMIndirectReturnValueProvider
+-[OCMIndirectReturnValueProvider handleInvocation:]
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/OCMIndirectReturnValueProvider.m
+-[OCMIndirectReturnValueProvider dealloc]
+-[OCMIndirectReturnValueProvider initWithProvider:andSelector:]
+-[OCMNotificationPoster initWithNotification:]
+-[OCMNotificationPoster dealloc]
+-[OCMNotificationPoster handleInvocation:]
+l_OBJC_METACLASS_RO_$_OCMNotificationPoster
+l_OBJC_$_INSTANCE_METHODS_OCMNotificationPoster
+OBJC_METH_VAR_TYPE_16
+l_OBJC_$_INSTANCE_VARIABLES_OCMNotificationPoster
+l_OBJC_CLASS_RO_$_OCMNotificationPoster
+-[OCMNotificationPoster handleInvocation:]
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/OCMNotificationPoster.m
+-[OCMNotificationPoster dealloc]
+-[OCMNotificationPoster initWithNotification:]
+-[OCMReturnValueProvider initWithValue:]
+-[OCMReturnValueProvider dealloc]
+-[OCMReturnValueProvider handleInvocation:]
+.str15
+_unnamed_cfstring_16
+.str19
+_unnamed_cfstring_20
+l_OBJC_METACLASS_RO_$_OCMReturnValueProvider
+OBJC_METH_VAR_TYPE_28
+OBJC_METH_VAR_TYPE_30
+l_OBJC_$_INSTANCE_METHODS_OCMReturnValueProvider
+OBJC_METH_VAR_TYPE_32
+l_OBJC_$_INSTANCE_VARIABLES_OCMReturnValueProvider
+l_OBJC_CLASS_RO_$_OCMReturnValueProvider
+-[OCMReturnValueProvider handleInvocation:]
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/OCMReturnValueProvider.m
+-[OCMReturnValueProvider dealloc]
+-[OCMReturnValueProvider initWithValue:]
++[OCMLocation locationWithTestCase:file:line:]
+-[OCMLocation initWithTestCase:file:line:]
+-[OCMLocation dealloc]
+-[OCMLocation testCase]
+-[OCMLocation file]
+-[OCMLocation line]
+l_OBJC_$_CLASS_METHODS_OCMLocation
+l_OBJC_METACLASS_RO_$_OCMLocation
+OBJC_METH_VAR_TYPE_19
+l_OBJC_$_INSTANCE_METHODS_OCMLocation
+OBJC_METH_VAR_TYPE_21
+l_OBJC_$_INSTANCE_VARIABLES_OCMLocation
+l_OBJC_CLASS_RO_$_OCMLocation
+OCMMakeLocation
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/OCMLocation.m
+-[OCMLocation line]
+-[OCMLocation file]
+-[OCMLocation testCase]
+-[OCMLocation dealloc]
+-[OCMLocation initWithTestCase:file:line:]
++[OCMLocation locationWithTestCase:file:line:]
++[OCMMacroState beginStubMacro]
++[OCMMacroState endStubMacro]
++[OCMMacroState beginExpectMacro]
++[OCMMacroState endExpectMacro]
++[OCMMacroState beginVerifyMacroAtLocation:]
++[OCMMacroState endVerifyMacro]
++[OCMMacroState globalState]
+-[OCMMacroState initWithRecorder:]
+-[OCMMacroState dealloc]
+-[OCMMacroState recorder]
+-[OCMMacroState switchToClassMethod]
+globalState
+OBJC_CLASSLIST_REFERENCES_$_10
+OBJC_SELECTOR_REFERENCES_15
+OBJC_METH_VAR_NAME_20
+OBJC_SELECTOR_REFERENCES_21
+OBJC_METH_VAR_NAME_22
+OBJC_SELECTOR_REFERENCES_23
+OBJC_METH_VAR_TYPE_25
+l_OBJC_$_CLASS_METHODS_OCMMacroState
+l_OBJC_METACLASS_RO_$_OCMMacroState
+l_OBJC_$_INSTANCE_METHODS_OCMMacroState
+l_OBJC_$_INSTANCE_VARIABLES_OCMMacroState
+l_OBJC_CLASS_RO_$_OCMMacroState
+-[OCMMacroState switchToClassMethod]
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/OCMMacroState.m
+-[OCMMacroState recorder]
+-[OCMMacroState dealloc]
+-[OCMMacroState initWithRecorder:]
++[OCMMacroState globalState]
++[OCMMacroState endVerifyMacro]
++[OCMMacroState beginVerifyMacroAtLocation:]
++[OCMMacroState endExpectMacro]
++[OCMMacroState beginExpectMacro]
++[OCMMacroState endStubMacro]
++[OCMMacroState beginStubMacro]
+-[OCMBlockArgCaller initWithBlockArguments:]
+-[OCMBlockArgCaller dealloc]
+-[OCMBlockArgCaller copyWithZone:]
+-[OCMBlockArgCaller handleArgument:]
+OBJC_CLASS_NAME_14
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_NSCopying
+l_OBJC_$_PROTOCOL_METHOD_TYPES_NSCopying
+l_OBJC_PROTOCOL_$_NSCopying
+l_OBJC_LABEL_PROTOCOL_$_NSCopying
+l_OBJC_CLASS_PROTOCOLS_$_OCMBlockArgCaller
+l_OBJC_METACLASS_RO_$_OCMBlockArgCaller
+l_OBJC_$_INSTANCE_METHODS_OCMBlockArgCaller
+l_OBJC_$_INSTANCE_VARIABLES_OCMBlockArgCaller
+l_OBJC_CLASS_RO_$_OCMBlockArgCaller
+-[OCMBlockArgCaller handleArgument:]
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/OCMBlockArgCaller.m
+-[OCMBlockArgCaller copyWithZone:]
+-[OCMBlockArgCaller dealloc]
+-[OCMBlockArgCaller initWithBlockArguments:]
+-[OCObserverMockObject init]
+-[OCObserverMockObject retain]
+-[OCObserverMockObject dealloc]
+-[OCObserverMockObject description]
+-[OCObserverMockObject setExpectationOrderMatters:]
+-[OCObserverMockObject autoRemoveFromCenter:]
+-[OCObserverMockObject expect]
+-[OCObserverMockObject verify]
+-[OCObserverMockObject verifyAtLocation:]
+-[OCObserverMockObject notificationWithName:object:]
+-[OCObserverMockObject handleNotification:]
+OBJC_CLASSLIST_REFERENCES_$_22
+.str31
+_unnamed_cfstring_32
+OBJC_CLASSLIST_REFERENCES_$_46
+l_OBJC_METACLASS_RO_$_OCObserverMockObject
+OBJC_METH_VAR_TYPE_57
+l_OBJC_$_INSTANCE_METHODS_OCObserverMockObject
+l_OBJC_$_INSTANCE_VARIABLES_OCObserverMockObject
+l_OBJC_CLASS_RO_$_OCObserverMockObject
+-[OCObserverMockObject handleNotification:]
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/OCObserverMockObject.m
+-[OCObserverMockObject notificationWithName:object:]
+-[OCObserverMockObject verifyAtLocation:]
+-[OCObserverMockObject verify]
+-[OCObserverMockObject expect]
+-[OCObserverMockObject autoRemoveFromCenter:]
+-[OCObserverMockObject setExpectationOrderMatters:]
+-[OCObserverMockObject description]
+-[OCObserverMockObject dealloc]
+-[OCObserverMockObject retain]
+-[OCObserverMockObject init]
+-[OCMObserverRecorder dealloc]
+-[OCMObserverRecorder notificationWithName:object:]
+-[OCMObserverRecorder notificationWithName:object:userInfo:]
+-[OCMObserverRecorder matchesNotification:]
+-[OCMObserverRecorder argument:matchesArgument:]
+l_OBJC_METACLASS_RO_$_OCMObserverRecorder
+OBJC_METH_VAR_TYPE_31
+OBJC_METH_VAR_TYPE_33
+l_OBJC_$_INSTANCE_METHODS_OCMObserverRecorder
+l_OBJC_$_INSTANCE_VARIABLES_OCMObserverRecorder
+l_OBJC_CLASS_RO_$_OCMObserverRecorder
+-[OCMObserverRecorder argument:matchesArgument:]
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/OCMObserverRecorder.m
+-[OCMObserverRecorder matchesNotification:]
+-[OCMObserverRecorder notificationWithName:object:userInfo:]
+-[OCMObserverRecorder notificationWithName:object:]
+-[OCMObserverRecorder dealloc]
++[OCMArg any]
++[OCMArg anyPointer]
++[OCMArg anyObjectRef]
++[OCMArg anySelector]
++[OCMArg isNil]
++[OCMArg isNotNil]
++[OCMArg isEqual:]
++[OCMArg isNotEqual:]
++[OCMArg isKindOfClass:]
+__24+[OCMArg isKindOfClass:]_block_invoke
++[OCMArg checkWithSelector:onObject:]
++[OCMArg checkWithBlock:]
++[OCMArg setTo:]
++[OCMArg setToValue:]
++[OCMArg invokeBlock]
++[OCMArg invokeBlockWithArgs:]
++[OCMArg defaultValue]
++[OCMArg resolveSpecialValues:]
+OBJC_CLASSLIST_REFERENCES_$_1
+OBJC_CLASSLIST_REFERENCES_$_2
+OBJC_CLASSLIST_REFERENCES_$_4
+.str9
+OBJC_SELECTOR_REFERENCES_13
+OBJC_SELECTOR_REFERENCES_36
+OBJC_CLASSLIST_REFERENCES_$_37
+OBJC_METH_VAR_TYPE_47
+OBJC_METH_VAR_TYPE_49
+OBJC_METH_VAR_TYPE_59
+OBJC_METH_VAR_TYPE_61
+OBJC_METH_VAR_NAME_67
+l_OBJC_$_CLASS_METHODS_OCMArg
+l_OBJC_METACLASS_RO_$_OCMArg
+l_OBJC_CLASS_RO_$_OCMArg
++[OCMArg resolveSpecialValues:]
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/OCMArg.m
++[OCMArg defaultValue]
++[OCMArg invokeBlockWithArgs:]
++[OCMArg invokeBlock]
++[OCMArg setToValue:]
++[OCMArg setTo:]
++[OCMArg checkWithBlock:]
++[OCMArg checkWithSelector:onObject:]
++[OCMArg isKindOfClass:]
++[OCMArg isNotEqual:]
++[OCMArg isEqual:]
++[OCMArg isNotNil]
++[OCMArg isNil]
++[OCMArg anySelector]
++[OCMArg anyObjectRef]
++[OCMArg anyPointer]
++[OCMArg any]
++[OCMConstraint constraint]
+-[OCMConstraint evaluate:]
+-[OCMConstraint copyWithZone:]
++[OCMConstraint constraintWithSelector:onObject:]
++[OCMConstraint constraintWithSelector:onObject:withValue:]
+-[OCMAnyConstraint evaluate:]
+-[OCMIsNilConstraint evaluate:]
+-[OCMIsNotNilConstraint evaluate:]
+-[OCMIsNotEqualConstraint evaluate:]
+-[OCMInvocationConstraint evaluate:]
+-[OCMBlockConstraint initWithConstraintBlock:]
+-[OCMBlockConstraint dealloc]
+-[OCMBlockConstraint evaluate:]
+OBJC_CLASSLIST_REFERENCES_$_11
+l_OBJC_$_CLASS_METHODS_OCMConstraint
+l_OBJC_METACLASS_RO_$_OCMConstraint
+l_OBJC_$_INSTANCE_METHODS_OCMConstraint
+l_OBJC_CLASS_RO_$_OCMConstraint
+OBJC_CLASS_NAME_38
+l_OBJC_METACLASS_RO_$_OCMAnyConstraint
+l_OBJC_$_INSTANCE_METHODS_OCMAnyConstraint
+l_OBJC_CLASS_RO_$_OCMAnyConstraint
+OBJC_CLASS_NAME_39
+l_OBJC_METACLASS_RO_$_OCMIsNilConstraint
+l_OBJC_$_INSTANCE_METHODS_OCMIsNilConstraint
+l_OBJC_CLASS_RO_$_OCMIsNilConstraint
+OBJC_CLASS_NAME_40
+l_OBJC_METACLASS_RO_$_OCMIsNotNilConstraint
+l_OBJC_$_INSTANCE_METHODS_OCMIsNotNilConstraint
+l_OBJC_CLASS_RO_$_OCMIsNotNilConstraint
+OBJC_CLASS_NAME_43
+l_OBJC_METACLASS_RO_$_OCMIsNotEqualConstraint
+l_OBJC_$_INSTANCE_METHODS_OCMIsNotEqualConstraint
+l_OBJC_$_INSTANCE_VARIABLES_OCMIsNotEqualConstraint
+l_OBJC_CLASS_RO_$_OCMIsNotEqualConstraint
+OBJC_CLASS_NAME_50
+l_OBJC_METACLASS_RO_$_OCMInvocationConstraint
+l_OBJC_$_INSTANCE_METHODS_OCMInvocationConstraint
+OBJC_METH_VAR_TYPE_52
+l_OBJC_$_INSTANCE_VARIABLES_OCMInvocationConstraint
+l_OBJC_CLASS_RO_$_OCMInvocationConstraint
+OBJC_SELECTOR_REFERENCES_58
+OBJC_CLASS_NAME_59
+l_OBJC_METACLASS_RO_$_OCMBlockConstraint
+l_OBJC_$_INSTANCE_METHODS_OCMBlockConstraint
+l_OBJC_$_INSTANCE_VARIABLES_OCMBlockConstraint
+l_OBJC_CLASS_RO_$_OCMBlockConstraint
+-[OCMBlockConstraint evaluate:]
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/OCMConstraint.m
+-[OCMBlockConstraint dealloc]
+-[OCMBlockConstraint initWithConstraintBlock:]
+-[OCMInvocationConstraint evaluate:]
+-[OCMIsNotEqualConstraint evaluate:]
+-[OCMIsNotNilConstraint evaluate:]
+-[OCMIsNilConstraint evaluate:]
+-[OCMAnyConstraint evaluate:]
++[OCMConstraint constraintWithSelector:onObject:withValue:]
++[OCMConstraint constraintWithSelector:onObject:]
+-[OCMConstraint copyWithZone:]
+-[OCMConstraint evaluate:]
++[OCMConstraint constraint]
+-[OCMPassByRefSetter initWithValue:]
+-[OCMPassByRefSetter dealloc]
+-[OCMPassByRefSetter handleArgument:]
+l_OBJC_METACLASS_RO_$_OCMPassByRefSetter
+l_OBJC_$_INSTANCE_METHODS_OCMPassByRefSetter
+l_OBJC_$_INSTANCE_VARIABLES_OCMPassByRefSetter
+l_OBJC_CLASS_RO_$_OCMPassByRefSetter
+-[OCMPassByRefSetter handleArgument:]
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/OCMPassByRefSetter.m
+-[OCMPassByRefSetter dealloc]
+-[OCMPassByRefSetter initWithValue:]
++[NSInvocation(OCMAdditions) invocationForBlock:withArguments:]
+-[NSInvocation(OCMAdditions) hasCharPointerArgument]
+-[NSInvocation(OCMAdditions) getArgumentAtIndexAsObject:]
+-[NSInvocation(OCMAdditions) invocationDescription]
+-[NSInvocation(OCMAdditions) argumentDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) objectDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) boolDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) charDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) unsignedCharDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) intDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) unsignedIntDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) shortDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) unsignedShortDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) longDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) unsignedLongDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) longLongDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) unsignedLongLongDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) doubleDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) floatDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) longDoubleDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) structDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) pointerDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) cStringDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) selectorDescriptionAtIndex:]
+OBJC_CLASSLIST_REFERENCES_$_7
+.str24
+_unnamed_cfstring_25
+.str28
+.str29
+_unnamed_cfstring_30
+.str36
+.str38
+_unnamed_cfstring_39
+OBJC_CLASSLIST_REFERENCES_$_45
+OBJC_CLASSLIST_REFERENCES_$_77
+OBJC_SELECTOR_REFERENCES_79
+OBJC_METH_VAR_NAME_80
+OBJC_SELECTOR_REFERENCES_81
+.str88
+_unnamed_cfstring_89
+OBJC_SELECTOR_REFERENCES_91
+.str92
+_unnamed_cfstring_93
+OBJC_CLASSLIST_REFERENCES_$_96
+.str99
+_unnamed_cfstring_100
+.str101
+_unnamed_cfstring_102
+.str103
+_unnamed_cfstring_104
+OBJC_METH_VAR_NAME_111
+OBJC_SELECTOR_REFERENCES_112
+OBJC_SELECTOR_REFERENCES_124
+OBJC_METH_VAR_NAME_129
+OBJC_SELECTOR_REFERENCES_130
+OBJC_METH_VAR_NAME_133
+OBJC_SELECTOR_REFERENCES_134
+OBJC_METH_VAR_NAME_135
+OBJC_SELECTOR_REFERENCES_136
+OBJC_METH_VAR_NAME_137
+OBJC_SELECTOR_REFERENCES_138
+OBJC_METH_VAR_NAME_139
+OBJC_SELECTOR_REFERENCES_140
+OBJC_METH_VAR_NAME_141
+OBJC_SELECTOR_REFERENCES_142
+OBJC_METH_VAR_NAME_143
+OBJC_SELECTOR_REFERENCES_144
+OBJC_METH_VAR_NAME_145
+OBJC_SELECTOR_REFERENCES_146
+OBJC_METH_VAR_NAME_147
+OBJC_SELECTOR_REFERENCES_148
+.str149
+_unnamed_cfstring_150
+.str151
+_unnamed_cfstring_152
+OBJC_SELECTOR_REFERENCES_154
+.str155
+_unnamed_cfstring_156
+OBJC_METH_VAR_NAME_157
+OBJC_SELECTOR_REFERENCES_158
+OBJC_CLASSLIST_REFERENCES_$_159
+.str160
+_unnamed_cfstring_161
+OBJC_METH_VAR_NAME_162
+OBJC_SELECTOR_REFERENCES_163
+OBJC_SELECTOR_REFERENCES_165
+.str166
+_unnamed_cfstring_167
+.str168
+_unnamed_cfstring_169
+.str170
+_unnamed_cfstring_171
+.str172
+_unnamed_cfstring_173
+.str174
+_unnamed_cfstring_175
+.str176
+_unnamed_cfstring_177
+.str178
+_unnamed_cfstring_179
+.str180
+_unnamed_cfstring_181
+.str182
+_unnamed_cfstring_183
+.str184
+_unnamed_cfstring_185
+.str186
+_unnamed_cfstring_187
+.str188
+_unnamed_cfstring_189
+.str190
+_unnamed_cfstring_191
+.str192
+_unnamed_cfstring_193
+OBJC_METH_VAR_NAME_194
+OBJC_SELECTOR_REFERENCES_195
+.str196
+_unnamed_cfstring_197
+.str198
+.str199
+_unnamed_cfstring_200
+.str201
+_unnamed_cfstring_202
+OBJC_METH_VAR_NAME_203
+OBJC_METH_VAR_TYPE_204
+OBJC_METH_VAR_NAME_205
+OBJC_METH_VAR_TYPE_206
+l_OBJC_$_CATEGORY_INSTANCE_METHODS_NSInvocation_$_OCMAdditions
+OBJC_METH_VAR_NAME_207
+OBJC_METH_VAR_TYPE_208
+l_OBJC_$_CATEGORY_CLASS_METHODS_NSInvocation_$_OCMAdditions
+l_OBJC_$_CATEGORY_NSInvocation_$_OCMAdditions
+-[NSInvocation(OCMAdditions) selectorDescriptionAtIndex:]
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/NSInvocation+OCMAdditions.m
+-[NSInvocation(OCMAdditions) cStringDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) pointerDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) structDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) longDoubleDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) floatDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) doubleDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) unsignedLongLongDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) longLongDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) unsignedLongDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) longDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) unsignedShortDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) shortDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) unsignedIntDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) intDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) unsignedCharDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) charDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) boolDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) objectDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) argumentDescriptionAtIndex:]
+-[NSInvocation(OCMAdditions) invocationDescription]
+-[NSInvocation(OCMAdditions) getArgumentAtIndexAsObject:]
+-[NSInvocation(OCMAdditions) hasCharPointerArgument]
++[NSInvocation(OCMAdditions) invocationForBlock:withArguments:]
++[NSMethodSignature(OCMAdditions) signatureForDynamicPropertyAccessedWithSelector:inClass:]
++[NSMethodSignature(OCMAdditions) propertyMatchingSelector:inClass:isGetter:]
++[NSMethodSignature(OCMAdditions) signatureForBlock:]
+-[NSMethodSignature(OCMAdditions) usesSpecialStructureReturn]
+-[NSMethodSignature(OCMAdditions) fullTypeString]
+-[NSMethodSignature(OCMAdditions) fullObjCTypes]
+.str7
+_unnamed_cfstring_8
+.str11
+_unnamed_cfstring_12
+.str34
+_unnamed_cfstring_35
+_unnamed_cfstring_43
+.str46
+_unnamed_cfstring_47
+.str48
+_unnamed_cfstring_49
+.str54
+_unnamed_cfstring_55
+OBJC_CLASSLIST_REFERENCES_$_56
+OBJC_SELECTOR_REFERENCES_66
+OBJC_SELECTOR_REFERENCES_68
+OBJC_METH_VAR_TYPE_72
+l_OBJC_$_CATEGORY_INSTANCE_METHODS_NSMethodSignature_$_OCMAdditions
+OBJC_METH_VAR_TYPE_76
+OBJC_METH_VAR_TYPE_77
+OBJC_METH_VAR_TYPE_79
+l_OBJC_$_CATEGORY_CLASS_METHODS_NSMethodSignature_$_OCMAdditions
+l_OBJC_$_CATEGORY_NSMethodSignature_$_OCMAdditions
+NSMakeRange
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRange.h
+-[NSMethodSignature(OCMAdditions) fullObjCTypes]
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/NSMethodSignature+OCMAdditions.m
+-[NSMethodSignature(OCMAdditions) fullTypeString]
+-[NSMethodSignature(OCMAdditions) usesSpecialStructureReturn]
++[NSMethodSignature(OCMAdditions) signatureForBlock:]
++[NSMethodSignature(OCMAdditions) propertyMatchingSelector:inClass:isGetter:]
++[NSMethodSignature(OCMAdditions) signatureForDynamicPropertyAccessedWithSelector:inClass:]
+-[NSNotificationCenter(OCMAdditions) addMockObserver:name:object:]
+l_OBJC_$_CATEGORY_INSTANCE_METHODS_NSNotificationCenter_$_OCMAdditions
+l_OBJC_$_CATEGORY_NSNotificationCenter_$_OCMAdditions
+-[NSNotificationCenter(OCMAdditions) addMockObserver:name:object:]
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/NSNotificationCenter+OCMAdditions.m
++[NSObject(OCMAdditions) instanceMethodForwarderForSelector:]
++[NSObject(OCMAdditions) enumerateMethodsInClass:usingBlock:]
+OBJC_METH_VAR_NAME_2
+OBJC_METH_VAR_TYPE_3
+l_OBJC_$_CATEGORY_CLASS_METHODS_NSObject_$_OCMAdditions
+l_OBJC_$_CATEGORY_NSObject_$_OCMAdditions
++[NSObject(OCMAdditions) enumerateMethodsInClass:usingBlock:]
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/NSObject+OCMAdditions.m
++[NSObject(OCMAdditions) instanceMethodForwarderForSelector:]
+-[NSValue(OCMAdditions) getBytes:objCType:]
+l_OBJC_$_CATEGORY_INSTANCE_METHODS_NSValue_$_OCMAdditions
+l_OBJC_$_CATEGORY_NSValue_$_OCMAdditions
+/Users/dhardiman/Library/Developer/Xcode/DerivedData/ModuleCache/2FY8Q70TX76AX/CoreFoundation-10I2D2XL7L7X9.pcm
+CoreFoundation
+OCMNumberForValue
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/NSValue+OCMAdditions.m
+-[NSValue(OCMAdditions) getBytes:objCType:]
+.str2
+.str10
+.str12
+_unnamed_cfstring_13
+.str49
+_unnamed_cfstring_50
+_unnamed_cfstring_56
+_unnamed_cfstring_61
+.str62
+_unnamed_cfstring_63
+OCMEqualTypesAllowingOpaqueStructsInternal
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/OCMFunctions.m
+OCMReportFailure
+OCMGetAssociatedMockForObject
+OCMSetAssociatedMockForObject
+OCMGetAssociatedMockForClass
+OCMSetAssociatedMockForClass
+OCMOriginalSelectorForAlias
+OCMAliasForOriginalSelector
+OCMIsAliasSelector
+OCMCreateSubclass
+OCMEqualTypesAllowingOpaqueStructs
+OCMNumberTypeForObjCType
+OCMTypeWithoutQualifiers
+OCMIsObjectType
+-[OCMArgAction handleArgument:]
+l_OBJC_METACLASS_RO_$_OCMArgAction
+l_OBJC_$_INSTANCE_METHODS_OCMArgAction
+l_OBJC_CLASS_RO_$_OCMArgAction
+-[OCMArgAction handleArgument:]
+/Users/dhardiman/Projects/OSMapKitAdapter/Carthage/Checkouts/ocmock/Source/OCMock/OCMArgAction.m
+/Users/dhardiman/Library/Developer/Xcode/DerivedData/OCMock-gsamibraohrbiybllkomwzvvzymc/Build/Intermediates/OCMock.build/Release-iphoneos/OCMock iOS.build/DerivedSources/OCMock_vers.c
+_ZL15__ARCLite__loadv
+_ZL58__arclite_NSMutableDictionary__setObject_forKeyedSubscriptP19NSMutableDictionaryP13objc_selectorP11objc_objectS4_
+_ZL22add_image_hook_swiftV1PK11mach_headerl
+_ZL42__arclite_NSUndoManagerProxy_isKindOfClassP11objc_objectP13objc_selectorP10objc_class
+_ZL13replaceMethodP10objc_classP13objc_selectorPFP11objc_objectS4_S2_zEPS6_
+_ZL30__arclite_NSManagedObject_initP11objc_objectP13objc_selector
+_ZL41__arclite_NSManagedObject_allocWithEntityP11objc_objectP13objc_selectorS0_
+_ZL36__arclite_NSManagedObject_allocBatchP11objc_objectP13objc_selectorPS0_S0_j
+_ZL37__arclite_NSKKMS_fastIndexForKnownKeyP11objc_objectP13objc_selectorS0_
+_ZL28__arclite_NSKKMS_indexForKeyP11objc_objectP13objc_selectorS0_
+_ZL29__arclite_NSKKsD_objectForKeyP11objc_objectP13objc_selectorS0_
+_ZL35__arclite_NSKKsD_removeObjectForKeyP11objc_objectP13objc_selectorS0_
+_ZL33__arclite_NSKKsD_setObject_forKeyP11objc_objectP13objc_selectorS0_S0_
+_ZL41__arclite_NSKKsD_addEntriesFromDictionaryP11objc_objectP13objc_selectorP12NSDictionary
+_ZL28__arclite_objc_readClassPairP10objc_classPK15objc_image_info
+_ZL32__arclite_objc_allocateClassPairP10objc_classPKcm
+_ZL32__arclite_object_getIndexedIvarsP11objc_object
+_ZL23__arclite_objc_getClassPKc
+_ZL27__arclite_objc_getMetaClassPKc
+_ZL31__arclite_objc_getRequiredClassPKc
+_ZL26__arclite_objc_lookUpClassPKc
+_ZL26__arclite_objc_getProtocolPKc
+_ZL23__arclite_class_getNameP10objc_class
+_ZL26__arclite_protocol_getNameP8Protocol
+_ZL37__arclite_objc_copyClassNamesForImagePKcPj
+_ZL17transcribeMethodsP10objc_classP15glue_class_ro_t
+_ZL19transcribeProtocolsP10objc_classP15glue_class_ro_t
+_ZL20transcribePropertiesP10objc_classP15glue_class_ro_t
+_ZL14initialize_impP11objc_objectP13objc_selector
+_ZL18allocateMaybeSwiftP18glue_swift_class_tm
+_ZL22copySwiftV1MangledNamePKcb
+_ZL13demangledNamePKcb
+_ZL16scanMangledFieldRPKcS0_S1_Ri
+_ZL30arclite_uninitialized_functionv
+_ZL12cxxConstructP11objc_object
+_ZL20fixStringForCoreDataP11objc_object
+OBJC_METACLASS_$___ARCLite__
+_ZL24OBJC_CLASS_$___ARCLite__
+_ZL31OBJC_METACLASS_RO_$___ARCLite__
+_non_lazy_classes
+_ZL27OBJC_CLASS_RO_$___ARCLite__
+_ZL11_class_name
+_ZL32OBJC_$_CLASS_METHODS___ARCLite__
+_ZL17_load_method_name
+_ZL17_load_method_type
+OBJC_METH_VAR_TYPE_6
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS___ARCLiteKeyedSubscripting__
+l_OBJC_$_PROTOCOL_METHOD_TYPES___ARCLiteKeyedSubscripting__
+l_OBJC_PROTOCOL_$___ARCLiteKeyedSubscripting__
+l_OBJC_LABEL_PROTOCOL_$___ARCLiteKeyedSubscripting__
+l_OBJC_PROTOCOL_REFERENCE_$___ARCLiteKeyedSubscripting__
+.str8
+_ZL30NSUndoManagerProxy_targetClass
+_ZL29original_NSManagedObject_init
+_ZL40original_NSManagedObject_allocWithEntity
+_ZL35original_NSManagedObject_allocBatch
+_ZL25NSMutableDictionary_class
+_ZL22NSConstantString_class
+.str20
+_ZL14NSString_class
+_ZL36original_NSKKMS_fastIndexForKnownKey
+_ZL27original_NSKKMS_indexForKey
+.str26
+_ZL28original_NSKKsD_objectForKey
+_ZL34original_NSKKsD_removeObjectForKey
+_ZL32original_NSKKsD_setObject_forKey
+_ZL40original_NSKKsD_addEntriesFromDictionary
+_ZZL22add_image_hook_swiftV1PK11mach_headerlE7patches
+_ZGVZL22add_image_hook_swiftV1PK11mach_headerlE7patches
+.str32
+_ZL31original_objc_allocateClassPair
+.str33
+_ZL31original_object_getIndexedIvars
+_ZL22original_objc_getClass
+_ZL26original_objc_getMetaClass
+_ZL30original_objc_getRequiredClass
+_ZL25original_objc_lookUpClass
+_ZL25original_objc_getProtocol
+_ZL22original_class_getName
+.str40
+_ZL25original_protocol_getName
+_ZL36original_objc_copyClassNamesForImage
+.str51
+.str52
+_ZL12demangleLock
+_ZL9Demangled
+.str56
+OBJC_METH_VAR_NAME_70
+OBJC_SELECTOR_REFERENCES_71
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -Wno-trigraphs -fno-exceptions -fno-rtti -mpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -D NDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.Internal.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -miphoneos-version-min=4.3 -g -fno-threadsafe-statics -Wno-sign-conversion -fembed-bitcode -iquote /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~37/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-generated-files.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~37/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-own-target-headers.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~37/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-all-target-headers.hmap -iquote /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~37/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-project-headers.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~37/Symbols/BuiltProducts/include -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~37/Objects/arclite.build/arclite_iOS.build/DerivedSources/arm64 -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~37/Objects/arclite.build/arclite_iOS.build/DerivedSources -F/Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~37/Symbols/BuiltProducts -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.Internal.sdk/System/Library/PrivateFrameworks -Wall -Wextra -Wno-gcc-compat -fgnu-inline-asm -MMD -MT dependencies -MF /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~37/Objects/arclite.build/arclite_iOS.build/Objects-normal/arm64/arclite.d --serialize-diagnostics /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~37/Objects/arclite.build/arclite_iOS.build/Objects-normal/arm64/arclite.dia -c /Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-65/source/arclite.mm -o /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~37/Objects/arclite.build/arclite_iOS.build/Objects-normal/arm64/arclite.o -mlinker-version=253.9
+__arclite_NSKKsD_addEntriesFromDictionary
+/Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-65/source/arclite.mm
+/Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-65
+__arclite_NSKKsD_setObject_forKey
+__arclite_NSKKsD_removeObjectForKey
+__arclite_NSKKsD_objectForKey
+__arclite_NSKKMS_indexForKey
+fixStringForCoreData
+__arclite_NSKKMS_fastIndexForKnownKey
+__arclite_NSManagedObject_allocBatch
+__arclite_NSManagedObject_allocWithEntity
+cxxConstruct
+__arclite_NSManagedObject_init
+arclite_uninitialized_function
+replaceMethod
+__arclite_NSUndoManagerProxy_isKindOfClass
+patch_lazy_pointers
+patch_t<const char **(const char *, unsigned int *)>
+__arclite_objc_copyClassNamesForImage
+patch_t<const char *(Protocol *)>
+__arclite_protocol_getName
+patch_t<const char *(Class)>
+__isctype
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.Internal.sdk/usr/include/ctype.h
+isdigit
+scanMangledField
+copySwiftV1DemangledName
+demangledName
+__arclite_class_getName
+patch_t<Protocol *(const char *)>
+__arclite_objc_getProtocol
+__arclite_objc_lookUpClass
+__arclite_objc_getRequiredClass
+__arclite_objc_getMetaClass
+patch_t<Class (const char *)>
+copySwiftV1MangledName
+__arclite_objc_getClass
+patch_t<void *(id)>
+word_align
+__arclite_object_getIndexedIvars
+patch_t<Class (Class, const char *, unsigned long)>
+allocateMaybeSwift
+isSwift
+metaclass
+__arclite_objc_allocateClassPair
+patch_t<Class (Class, const objc_image_info *)>
+initialize_imp
+property_list_nth
+transcribeProperties
+transcribeProtocols
+method_list_nth
+transcribeMethods
+alignment
+max
+ivar_list_nth
+transcribeIvars
+fastFlags
+data
+ro
+__arclite_objc_readClassPair
+add_image_hook_swiftV1
+install_swiftV1
+install_ARC
+objc_collectingEnabled
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.Internal.sdk/usr/include/objc/objc-auto.h
+keyedGetter
+__arclite_NSMutableDictionary__setObject_forKeyedSubscript
+addOrReplaceMethod
+install_dict_nil_value
+install_subscripting
+install_autoreleasepool
+__ARCLite__load
