@@ -1,0 +1,6 @@
+framework module OSTransformation {
+  umbrella header "OSTransformation.h"
+
+  export *
+  module * { export * }
+}
