@@ -1,0 +1,3 @@
+github "dhardiman/Fetch" "1.0.0"
+github "Quick/Nimble" "v3.2.0"
+github "OrdnanceSurvey/osjson-ios" "1.1.4"
